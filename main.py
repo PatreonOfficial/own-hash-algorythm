@@ -29,7 +29,6 @@ def Hashing(Hash):
         if(len(str(int(this)))<25):
             this = this *3
             t += 1
-        #this = int(this)
         
 
 while (True):
