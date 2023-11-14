@@ -22,19 +22,20 @@ def Hashing(Hash):
     this = (Hash*(Hash%56))
     t = 0
     
-    while(len(str(this)) != 10):
-        if(len(str(this)) > 10):
+    while(len(str(int(int(this)))) != 25):
+        if(len(str(int(this))) > 25):
             this = this/2
             t += 1
-        if(len(str(this))<10):
+        if(len(str(int(this)))<25):
             this = this *3
             t += 1
+        #this = int(this)
         
 
 while (True):
     ConvToNumb(list(input("Any string: ")))
     #print (n)
     Hashing(n)
-    lol = str(this)
+    lol = int(this)
     print(lol)
-    print(t)
+    print("Lenghtening operations: " + str(t))
