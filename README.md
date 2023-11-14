@@ -2,7 +2,7 @@
 Converts a given input into an Hash (Probably Bad)
 
 #Current Issues<br>
--generates way to huge numbers because python likes Siantific Notation
+-unknown
 
 #Future Plans<br>
 -Fix issues<br>
