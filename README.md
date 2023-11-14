@@ -1,7 +1,7 @@
 # Own Hash Algorythm
 Converts a given input into an Hash (Probably Bad)
 
-#Current Issues
+#Current Issues<br>
 -generates way to huge numbers because python likes Siantific Notation
 
 #Future Plans<br>
