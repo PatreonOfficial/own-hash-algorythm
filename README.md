@@ -10,7 +10,7 @@ Converts a given input into an Hash (Probably Bad)
 
 ### lookuptable_generator.py
 * Execute the programm and type in a seed.<br>
-!!CAUTION!! with that you generate a new lookup table, so you will get a diffrent output from main.py for the same Input!!
+  - !!CAUTION!! with that you generate a new lookup table, so you will get a diffrent output from main.py for the same Input!!
 
 
 
